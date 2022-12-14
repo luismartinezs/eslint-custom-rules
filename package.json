@@ -1,0 +1,23 @@
+{
+  "name": "eslint-custom-rules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/eslint": "^8.4.10",
+    "@types/glob": "^8.0.0",
+    "@types/node": "^18.11.15",
+    "@typescript-eslint/eslint-plugin": "^5.46.1",
+    "@typescript-eslint/parser": "^5.46.1",
+    "eslint": "^8.29.0"
+  },
+  "dependencies": {
+    "glob": "^8.0.3"
+  }
+}
