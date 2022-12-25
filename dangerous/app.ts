@@ -1,5 +1,5 @@
 export {}
 function dangerous () {
-    console.log('dangerous')
+  console.log('dangerous')
 }
 dangerous()
